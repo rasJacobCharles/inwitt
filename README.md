@@ -1,7 +1,6 @@
 # Inwitt (Old English: *inner knowledge, internal wisdom*)
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   An open-source, neural-inspired Long-Term Memory (LTM) layer for AI harnesses and personal knowledge bases.
   Inwitt allows you and autonomous AI agents to securely read, navigate, and curate your knowledge vault structured
