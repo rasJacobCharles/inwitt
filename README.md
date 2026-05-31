@@ -114,10 +114,10 @@
   * Design the local SQLite database schema (`nodes`, `edges`, `recall_logs`, `staging_queue`).
   * Implement the mathematical decay functions ($S_i(t)$) in SQLite/Python.
 
-  ### Phase 2: MCP Server & CLI
-  * Wrap the engine in an MCP Server exposing memory tools to AI clients.
+  ### Phase 2: Agent Skills API & CLI
+  * Build the core API to expose indexing and weight reinforcement as standard, callable AI functions/skills.
   * Develop a local CLI tool to index vaults, trigger manual syncs, and review/approve staged changes.
 
   ### Phase 3: Platform Integrations
   * Validate the system using an Obsidian test vault.
-  * Integrate with Claude Desktop, Cursor, and custom Python/Node.js agentic frameworks.
+  * Integrate with AI CLI (script), and custom agentic tool.
